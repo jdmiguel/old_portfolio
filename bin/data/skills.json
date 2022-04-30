@@ -1,0 +1,88 @@
+{
+    "datos": [
+        {
+            "id": "img_1",
+            "src": "../assets/img/bg_7.jpg"
+        },
+        {
+            "id": "img_2",
+            "src": "../assets/img/skills_icon_1.png"
+        },
+        {
+            "id": "img_3",
+            "src": "../assets/img/skills_icon_2.png"
+        },
+        {
+            "id": "img_4",
+            "src": "../assets/img/skills_icon_3.png"
+        },
+        {
+            "id": "img_5",
+            "src": "../assets/img/skills_icon_4.png"
+        },
+        {
+            "id": "img_6",
+            "src": "../assets/img/skills_icon_5.png"
+        },
+        {
+            "id": "img_7",
+            "src": "../assets/img/skills_icon_6.png"
+        },
+        {
+            "id": "img_8",
+            "src": "../assets/img/skills_icon_7.png"
+        },
+        {
+            "id": "img_9",
+            "src": "../assets/img/skills_icon_8.png"
+        },
+        {
+            "id": "img_10",
+            "src": "../assets/img/skills_icon_9.png"
+        },
+        {
+            "id": "img_11",
+            "src": "../assets/img/skills_icon_10.png"
+        },
+        {
+            "id": "img_12",
+            "src": "../assets/img/skills_icon_11.png"
+        },
+        {
+            "id": "img_13",
+            "src": "../assets/img/skills_icon_12.png"
+        },
+        {
+            "id": "img_14",
+            "src": "../assets/img/skills_icon_13.png"
+        },
+        {
+            "id": "img_15",
+            "src": "../assets/img/skills_icon_14.png"
+        },
+        {
+            "id": "img_16",
+            "src": "../assets/img/skills_icon_15.png"
+        },
+        {
+            "id": "img_17",
+            "src": "../assets/img/skills_icon_16.png"
+        },
+        {
+            "id": "img_18",
+            "src": "../assets/img/skills_icon_17.png"
+        },
+        {
+            "id": "img_91",
+            "src": "../assets/img/skills_icon_18.png"
+        },
+        {
+            "id": "img_20",
+            "src": "../assets/img/skills_icon_19.png"
+        },
+        {
+            "id": "img_21",
+            "src": "../assets/img/skills_icon_20.png"
+        }
+    ]
+}

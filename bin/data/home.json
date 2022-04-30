@@ -1,0 +1,44 @@
+{
+    "datos": [
+        {
+            "id": "img_1",
+            "src": "assets/img/bg_0.jpg"
+        },
+        {
+            "id": "img_2",
+            "src": "assets/img/bg_1.jpg"
+        },
+        {
+            "id": "img_3",
+            "src": "assets/img/bg_2.jpg"
+        },
+        {
+            "id": "img_4",
+            "src": "assets/img/bg_3.jpg"
+        },
+        {
+            "id": "img_5",
+            "src": "assets/img/bg_4.jpg"
+        },
+        {
+            "id": "jquery",
+            "src": "js/libs/jquery-1.10.0.min.js"
+        },
+        {
+            "id": "tweenmax",
+            "src": "js/libs/TweenMax.min.js"
+        },
+        {
+            "id": "timelineMax",
+            "src": "js/libs/TimelineMax.min.js"
+        },
+        {
+            "id": "drawSvgPlugin",
+            "src": "js/libs/DrawSVGPlugin.min.js"
+        },
+        {
+            "id": "snapSvg",
+            "src": "js/libs/snap.svg-min.js"
+        }
+    ]
+}

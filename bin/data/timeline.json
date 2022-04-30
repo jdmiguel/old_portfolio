@@ -1,0 +1,32 @@
+{
+    "datos": [
+        {
+            "id": "img_1",
+            "src": "../assets/img/bg_9.jpg"
+        },
+        {
+            "id": "img_2",
+            "src": "../assets/img/timeline_icon_1.png"
+        },
+        {
+            "id": "img_3",
+            "src": "../assets/img/timeline_icon_2.png"
+        },
+        {
+            "id": "img_4",
+            "src": "../assets/img/timeline_icon_3.png"
+        },
+        {
+            "id": "img_5",
+            "src": "../assets/img/timeline_icon_4.png"
+        },
+        {
+            "id": "img_6",
+            "src": "../assets/img/timeline_icon_5.png"
+        },
+        {
+            "id": "img_7",
+            "src": "../assets/img/timeline_icon_6.png"
+        }
+    ]
+}

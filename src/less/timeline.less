@@ -1,0 +1,187 @@
+#bg-timeline{
+  z-index: 1;
+  .pathBg(9,.55);
+}
+
+#content-timeline {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  margin: -175px 0 0 -400px;
+  z-index: 2;
+  width: 800px;
+  height: 350px;
+  color: @white;
+  #int-timeline{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 2;
+    #years{
+      li{
+        font-size: @fontSize;
+        position: absolute;
+        top: 15px;
+      }
+      li:nth-child(1){
+        left: 16px;
+      }
+      li:nth-child(2){
+        left: 85px;
+      }
+      li:nth-child(3){
+        left: 158px;
+      }
+      li:nth-child(4){
+        left: 230px;
+      }
+      li:nth-child(5){
+        left: 298px;
+      }
+      li:nth-child(6){
+        left: 368px;
+      }
+      li:nth-child(7){
+        left: 438px;
+      }
+      li:nth-child(8){
+        left: 507px;
+      }
+      li:nth-child(9){
+        left: 577px;
+      }
+    }
+    #lines-dotted{
+      .line-dotted{
+        position: absolute;
+      }
+    }
+    #blocks{
+      img, p, span{
+        position: absolute;
+      }
+      p{
+        font-size: @fontSize - 4;
+        top: -2px;
+      }
+      span{
+        width: 26px;
+        height: 26px;
+        top: 2px;
+      }
+      #itt{
+        position: absolute;
+        top: 50px;
+        left: 20px;
+        img{
+          top: -1px;
+          left: 119px;
+        }
+        p{
+          right: 18px;
+        }
+        span{
+          left: 77px;
+        }
+      }
+      #retis{
+        position: absolute;
+        top: 100px;
+        left: 150px;
+        img{
+          top: 0;
+          left: 71px;
+        }
+        p{
+          right: 50px;
+        }
+        span{
+          left: 27px;
+        }
+      }
+      #rumbo{
+        position: absolute;
+        top: 150px;
+        left: 182px;
+        img{
+          top: 6px;
+          left: 101px;
+        }
+        p{
+          right: 60px;
+        }
+        span{
+          left: 57px;
+        }
+      }
+      #publicis{
+        position: absolute;
+        top: 200px;
+        left: 244px;
+        img{
+          top: 2px;
+          left: 111px;
+        }
+        p{
+          right: -37px;
+        }
+        span{
+          left: 72px;
+        }
+      }
+      #proximity{
+        position: absolute;
+        top: 250px;
+        left: 321px;
+        img{
+          top: -9px;
+          left: 244px;
+        }
+        p{
+          right: -100px;
+        }
+        span{
+          left: 200px;
+        }
+      }
+      #scpf{
+        position: absolute;
+        top: 300px;
+        left: 445px;
+        img{
+          top: 6px;
+          left: 115px;
+        }
+        p{
+          right: -10px;
+        }
+        span{
+          left: 77px;
+        }
+      }
+      .blocks-graphics{
+        width: 320px;
+        height: 50px;
+      }
+      .add{
+        position: absolute;
+        top:50px;
+        fill: @white;
+      }
+    }
+  }
+  #bg-content{
+    position: absolute;
+    z-index: 1;
+  }
+}
+
+#tit-timeline{
+  position: fixed;
+  top: 20px;
+  right: 30px;
+  z-index: 3;
+  font-size: 22px;
+  color: @blue;
+  opacity: .9;
+}

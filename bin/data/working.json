@@ -1,0 +1,20 @@
+{
+    "datos": [
+        {
+            "id": "img_1",
+            "src": "../assets/img/bg_10.jpg"
+        },
+        {
+            "id": "img_2",
+            "src": "../assets/img/working_1.jpg"
+        },
+        {
+            "id": "img_3",
+            "src": "../assets/img/working_2.jpg"
+        },
+        {
+            "id": "img_4",
+            "src": "../assets/img/working_3.jpg"
+        }
+    ]
+}
